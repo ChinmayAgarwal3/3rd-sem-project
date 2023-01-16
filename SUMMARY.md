@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [Untitled](README.md)
+* [👋 Flask Content Aggregator](flask-content-aggregator.md)
 
 ## Overview
 
